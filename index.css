@@ -1,0 +1,21 @@
+body{
+    background-color: #b1e6d1;
+    text-align: center;
+    padding-top: 150px;
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
+
+button{
+    width: 100px;
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
